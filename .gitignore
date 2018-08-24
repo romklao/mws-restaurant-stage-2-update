@@ -1,8 +1,0 @@
-# hide key
-config.js
-
-# dependencies
-node_modules/
-dist/
-
-.publish/
